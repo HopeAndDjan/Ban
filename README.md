@@ -4,5 +4,5 @@ This is a ban script which bans you from a game dont worry it doesnt actually BA
 
 wait(5)
 
-local banreason = "enter ban reason" <-- input your ban reason
+local banreason = "enter ban reason" -- input your ban reason
 game.Players.LocalPlayer:Kick(banreason)
